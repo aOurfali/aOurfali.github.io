@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/aOurfali.github.io/aOurfali.github.io/static/css/main.93d959b0.chunk.css",
+    "main.js": "/aOurfali.github.io/aOurfali.github.io/static/js/main.d9ffda2e.chunk.js",
+    "main.js.map": "/aOurfali.github.io/aOurfali.github.io/static/js/main.d9ffda2e.chunk.js.map",
+    "runtime-main.js": "/aOurfali.github.io/aOurfali.github.io/static/js/runtime-main.5e9f83b5.js",
+    "runtime-main.js.map": "/aOurfali.github.io/aOurfali.github.io/static/js/runtime-main.5e9f83b5.js.map",
+    "static/css/2.d703c6cb.chunk.css": "/aOurfali.github.io/aOurfali.github.io/static/css/2.d703c6cb.chunk.css",
+    "static/js/2.efdc9cbd.chunk.js": "/aOurfali.github.io/aOurfali.github.io/static/js/2.efdc9cbd.chunk.js",
+    "static/js/2.efdc9cbd.chunk.js.map": "/aOurfali.github.io/aOurfali.github.io/static/js/2.efdc9cbd.chunk.js.map",
+    "static/js/3.782a07ec.chunk.js": "/aOurfali.github.io/aOurfali.github.io/static/js/3.782a07ec.chunk.js",
+    "static/js/3.782a07ec.chunk.js.map": "/aOurfali.github.io/aOurfali.github.io/static/js/3.782a07ec.chunk.js.map",
+    "index.html": "/aOurfali.github.io/aOurfali.github.io/index.html",
+    "static/css/2.d703c6cb.chunk.css.map": "/aOurfali.github.io/aOurfali.github.io/static/css/2.d703c6cb.chunk.css.map",
+    "static/css/main.93d959b0.chunk.css.map": "/aOurfali.github.io/aOurfali.github.io/static/css/main.93d959b0.chunk.css.map",
+    "static/js/2.efdc9cbd.chunk.js.LICENSE.txt": "/aOurfali.github.io/aOurfali.github.io/static/js/2.efdc9cbd.chunk.js.LICENSE.txt",
+    "static/media/albascharesto.43d7120b.JPG": "/aOurfali.github.io/aOurfali.github.io/static/media/albascharesto.43d7120b.JPG",
+    "static/media/avatar-1.9277ecea.png": "/aOurfali.github.io/aOurfali.github.io/static/media/avatar-1.9277ecea.png",
+    "static/media/avatar-3.d6c9b46f.png": "/aOurfali.github.io/aOurfali.github.io/static/media/avatar-3.d6c9b46f.png",
+    "static/media/icon.891f2c17.png": "/aOurfali.github.io/aOurfali.github.io/static/media/icon.891f2c17.png",
+    "static/media/me.490e5e71.jpg": "/aOurfali.github.io/aOurfali.github.io/static/media/me.490e5e71.jpg",
+    "static/media/portfolio.f3205716.JPG": "/aOurfali.github.io/aOurfali.github.io/static/media/portfolio.f3205716.JPG",
+    "static/media/rickandmorty.3506982b.JPG": "/aOurfali.github.io/aOurfali.github.io/static/media/rickandmorty.3506982b.JPG",
+    "static/media/App.css": "/aOurfali.github.io/aOurfali.github.io/static/media/wood-background.d36831f6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e9f83b5.js",
+    "static/css/2.d703c6cb.chunk.css",
+    "static/js/2.efdc9cbd.chunk.js",
+    "static/css/main.93d959b0.chunk.css",
+    "static/js/main.d9ffda2e.chunk.js"
+  ]
+}
